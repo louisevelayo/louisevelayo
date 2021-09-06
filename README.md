@@ -6,4 +6,6 @@
 
 #### 📨 You can reach me via emai: louisevelayo@gmail.com
 
+---
+
 *As an aspiring software developer, I am open to any constructive criticism you may have regarding my work so please do not hesitate to let me know!*
