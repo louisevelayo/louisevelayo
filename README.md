@@ -1,10 +1,10 @@
 # 🙋‍♂️Hi, I'm Louise Velayo!
 
-#### 👨‍🎓 I am an international student in Belgium, studying Engineering Technology, specializing in electronics & ICT, at KU Leuven.
+### 👨‍🎓 I am an international student in Belgium, studying Engineering Technology, specializing in electronics & ICT, at KU Leuven.
 
-#### 👨‍💻 This account is meant to showcase both my academic and personal projects.
+### 👨‍💻 This account is meant to showcase both my academic and personal projects.
 
-#### 📨 You can reach me via emai: louisevelayo@gmail.com
+### 📨 You can reach me via emai: louisevelayo@gmail.com
 
 
 
