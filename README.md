@@ -4,7 +4,7 @@
 
 #### 👨‍💻 This account is meant to showcase both my academic and personal projects.
 
-#### 📨 You can reach me via e-mail: louisevelayo@gmail.com
+#### 📨 You can reach me via e-mail: louisematias.velayo@gmail.com
 
 ----------
 
